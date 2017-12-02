@@ -50,9 +50,11 @@ def lambda_handler(event, context):
 
 ## メモ
 
-ここのライブラリを   
+ここのライブラリも参考になる   
 https://github.com/ryfeus/lambda-packs   
 
+AWS_Lambda_in_Action   
+https://github.com/danilop/AWS_Lambda_in_Action
 
 # 参考
 
